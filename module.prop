@@ -1,9 +1,5 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
-cacheModule=false
+id=dmchssc.htc10.sprint.tether
+name=Tether Sprint HTC 10
+version=v1.0
+description=Enables stock tethering on Sprint HTC 10
+versionCode=1000
